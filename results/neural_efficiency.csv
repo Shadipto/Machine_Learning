@@ -1,0 +1,2 @@
+model,training_time_sec,inference_latency_ms_per_sample,test_samples
+neural_mlp,63.77564612496644,0.006263804507746161,23208

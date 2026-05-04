@@ -1,0 +1,6 @@
+model,roc_auc
+calibrated_svm,0.9840384808588036
+linear_svm,0.9838824870918407
+logistic_regression,0.9825571527594343
+naive_bayes,0.976564444816364
+voting_classifier,0.9412702516373664
